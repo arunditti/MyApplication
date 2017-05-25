@@ -20,8 +20,6 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.test.AndroidTestCase;
 
-import junit.framework.Test;
-
 import java.util.HashSet;
 
 public class TestDb extends AndroidTestCase {
