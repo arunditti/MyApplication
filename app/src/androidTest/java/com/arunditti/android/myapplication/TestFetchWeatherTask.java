@@ -21,7 +21,6 @@ import android.test.AndroidTestCase;
 
 import com.arunditti.android.myapplication.data.WeatherContract;
 
-
 public class TestFetchWeatherTask extends AndroidTestCase{
     static final String ADD_LOCATION_SETTING = "Sunnydale, CA";
     static final String ADD_LOCATION_CITY = "Sunnydale";

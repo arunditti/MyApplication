@@ -32,7 +32,7 @@ public class TestDb extends AndroidTestCase {
     }
 
     /*
-        This function gets called before each test is e,xecuted to delete the database.  This makes
+        This function gets called before each test is executed to delete the database.  This makes
         sure that we always have a clean test.
      */
     public void setUp() {
